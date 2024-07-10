@@ -1,0 +1,18 @@
+.head11 h1 {
+    background-color: #81eeda;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+.page {
+    font-family: sans-serif;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(65, 195, 173);
+    margin-top: 25%;
+}
+
+body {
+    background-color: aquamarine;
+}
